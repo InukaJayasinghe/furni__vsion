@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { useProject } from '../../contexts/ProjectContext';
-import { FurnitureItem, FurniturePosition } from '../../types';
+import { FurnitureItem } from '../../types';
 import { Move, RotateCcw, Trash2 } from 'lucide-react';
 
 export default function Canvas2D() {
