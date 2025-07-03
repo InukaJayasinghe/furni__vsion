@@ -22,7 +22,7 @@ export const furnitureItems: FurnitureItem[] = [
     height: 0.75,
     position: { x: 2, y: 2, rotation: 0 },
     color: '#D9CFC1',
-    imageUrl: 'https://images.pexels.com/photos/8460367/pexels-photo-8460367.jpeg?auto=compress&cs=tinysrgb&w=600'
+    imageUrl: 'https://images.pexels.com/photos/11112735/pexels-photo-11112735.jpeg'
   },
   {
     id: 'sofa-1',
@@ -33,7 +33,7 @@ export const furnitureItems: FurnitureItem[] = [
     height: 0.8,
     position: { x: 3, y: 1, rotation: 0 },
     color: '#687585',
-    imageUrl: 'https://images.pexels.com/photos/16035863/pexels-photo-16035863/free-photo-of-cushioned-white-three-seater-sofa.jpeg?auto=compress&cs=tinysrgb&w=600'
+    imageUrl: 'https://images.pexels.com/photos/11112731/pexels-photo-11112731.jpeg'
   },
   {
     id: 'table-1',
@@ -44,7 +44,7 @@ export const furnitureItems: FurnitureItem[] = [
     height: 0.45,
     position: { x: 3, y: 2, rotation: 0 },
     color: '#5C4033',
-    imageUrl: 'https://images.pexels.com/photos/4846461/pexels-photo-4846461.jpeg?auto=compress&cs=tinysrgb&w=600'
+    imageUrl: 'https://images.pexels.com/photos/2079455/pexels-photo-2079455.jpeg'
   },
   {
     id: 'table-2',
@@ -55,7 +55,7 @@ export const furnitureItems: FurnitureItem[] = [
     height: 0.75,
     position: { x: 4, y: 2, rotation: 0 },
     color: '#8B5A2B',
-    imageUrl: 'https://images.pexels.com/photos/890669/pexels-photo-890669.jpeg?auto=compress&cs=tinysrgb&w=600'
+    imageUrl: 'https://images.pexels.com/photos/373548/pexels-photo-373548.jpeg'
   }
 ];
 
